@@ -29,3 +29,4 @@ Veja os códigos colocados em “DelegandoFuncoesParaPRO_CPU.io”, lá é expli
 * esp_ipc_call(): Vale ressaltar o seu funcionamento. Essa função será executada em paralelo com a que à chamou, ou seja, as duas extarão em execução sem sabermos qual terminará primeiro. 
 * esp_ipc_call_blocking(): Visto isso, temos essa função que funciona de forma semelhante, a diferença é que a função que a chama aguarda sua execução.  É interessante quando     queremos sincronizar o processamento dos cores.  
 
+# Continua...
